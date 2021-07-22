@@ -1,0 +1,4 @@
+npm install
+export AUTH_JWT_KEY = 
+export AUTH_SALT = 
+npm run dev
